@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d422c11-b977-431f-9d32-11614038a3df" name="conn Debian">
+        <fileTransfer accessType="SFTP" host="192.168.1.37" port="22" sshConfigId="399bd420-fadd-4f32-a1fc-06b9801e7033" sshConfig="root@192.168.1.37:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
